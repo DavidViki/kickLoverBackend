@@ -1,0 +1,11 @@
+[33mcommit 042a6ba9df83d812db24c6166003049b8d7b405b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: DavidViki <damjanovic.david@gmail.com>
+Date:   Wed Nov 13 21:17:49 2024 +0100
+
+    Fix script
+
+[33mcommit bb614a056a1e0f6cc46d0f539b77d9e98bd4dac6[m
+Author: DavidViki <damjanovic.david@gmail.com>
+Date:   Wed Nov 13 21:12:00 2024 +0100
+
+    Backend ready for deployment
